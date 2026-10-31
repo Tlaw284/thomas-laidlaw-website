@@ -22,3 +22,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Private source material (phone, grades, reference contacts)
+md_files/master_resume.md

@@ -1,4 +1,3 @@
-import './App.css'
 import Navbar from "./components/Navbar"
 import Footer from "./components/Footer"
 import Home from "./components/Home"
@@ -12,7 +11,7 @@ function App() {
   return(
     <>
       <Navbar/>
-      <main>
+      <main className="mx-auto max-w-5xl px-4 sm:px-6">
         <Home/>
         <About/>
         <Skills/>
