@@ -10,14 +10,7 @@ function About() {
                         I'm most interested in the space where hardware meets software, and where devices meet the cloud.
                     </p>
                     <p>
-                        As an embedded systems intern at DornerWorks, I profiled FreeRTOS firmware running on 2,000+ customer
-                        machines, built a cloud-to-edge OTA update service on AWS IoT Core, and developed test frameworks for
-                        wireless WAN protocols. Before that, I designed and maintained customer infrastructure on AWS at Daydream
-                        Technologies. Since 2024 I've been a learning assistant for MSU's intro programming course, helping
-                        hundreds of students debug their first Python programs.
-                    </p>
-                    <p>
-                        I'm looking for full-time roles in embedded systems, cloud/IoT, or software starting in 2027.
+                        I'm interested in pursuing Software Engineering roles either in the Embedded or Application development space.
                     </p>
                 </div>
 
